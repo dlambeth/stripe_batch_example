@@ -1,5 +1,7 @@
 amount,currency,customer,description,idempotency_key
 9999,usd,cus_8zONdQWrooUNPh,"monthly donation",831354a4-621d-47bc-9ef8-21b813df7eb8
 1799,usd,cus_91ljbFpe6M0qf7,"monthly donation",7e6fd7c4-2f01-47cd-9ddb-43145a62db39
+12.34,,,,cus_91ljbFpe6M0qf7,"malformed request",16543bd8-33a4-4952-b6d9-7a5b6e3a41e9
 8455,usd,cus_91ljbFpe6M0qf7,"monthly donation",16543bd8-33a4-4952-b6d9-7a5b6e3a41e6
-9935,usd,cus_903LKFluyk4DUK,"monthly donation",ec5b3f2d-15b5-4977-bc63-805bb94c43e9
+1234,,cus_91ljbFpe6M0qf7,"missing currency",16543bd8-33a4-4952-b6d9-7a5b6e3a41e9
+9935,usd,cus_903LKFluyk4DUK,"card will decline",ec5b3f2d-15b5-4977-bc63-805bb94c42e9
